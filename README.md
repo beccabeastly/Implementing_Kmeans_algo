@@ -37,7 +37,7 @@ included libraries
 In this program I used data preparation
 ![Data_Prep](https://github.com/beccabeastly/Implementing_Kmeans_algo/blob/main/data_prep.png)
 
-![PCA_Graph]()
+![PCA_Graph](https://github.com/beccabeastly/Implementing_Kmeans_algo/blob/main/graph_of_data.png)
 
 
 # Contributors
