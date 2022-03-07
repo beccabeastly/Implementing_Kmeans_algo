@@ -7,6 +7,7 @@ In this project I cleaned up data in order to utilize the Kmeans algorithm to fi
 `Pandas`
 `Jupyter Lab`
 `Hvplot`
+`scikit learn`
 
 ---
 
