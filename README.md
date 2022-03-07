@@ -36,7 +36,7 @@ included libraries
 
 # Code Footnotes
 
-In this program I used data preparation
+In this program I used data preparation and graphs to see how the data was being clustered together using different methods
 ![Data_Prep](https://github.com/beccabeastly/Implementing_Kmeans_algo/blob/main/data_prep.png)
 
 ![PCA_Graph](https://github.com/beccabeastly/Implementing_Kmeans_algo/blob/main/graph_of_data.png)
