@@ -17,8 +17,10 @@ Install Python 3: use this link  [Python Install](https://www.python.org/)
 Install GitBash to add Pandas here: [GitBash Install](https://gitforwindows.org/) 
 
 Install Hvplot here: use this link [Hvplot how to](https://pypi.org/project/hvplot/)
-
 **Or in gitbash** use `pip install hvplot`
+
+Install scikit learn: use this link [scikit learn how to](https://scikit-learn.org/stable/install.html)
+**Or in gitbash** use `pip install -U scikit-learn`
 
 included libraries
 `import pandas as pd`
@@ -41,4 +43,4 @@ In this program I used data preparation
 
 
 # Contributors
-[Email](beccabeastly@gmail.com)
+[Rebecca_Email](beccabeastly@gmail.com)
