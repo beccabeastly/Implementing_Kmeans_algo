@@ -20,8 +20,6 @@ Install Hvplot here: use this link [Hvplot how to](https://pypi.org/project/hvpl
 
 **Or in gitbash** use `pip install hvplot`
 
-utilize hvplot by including code `import hvplot.pandas` library
-
 included libraries
 `import pandas as pd`
 `import hvplot.pandas`
